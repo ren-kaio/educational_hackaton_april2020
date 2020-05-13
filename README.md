@@ -3,7 +3,7 @@ my upgraded solution to Ya-Praktikum_hackaton, held in april 2020
 
 #### Мой вариант решения по хакатону Яндекс_Практикума, проводимому в апреле 2020 года.
 
-## Запуск 
+### Запуск 
 
 1. Установка виртуального окружения:
 `python -m venv venv`
@@ -15,7 +15,7 @@ my upgraded solution to Ya-Praktikum_hackaton, held in april 2020
 `python ren-kaio_ya-arena-event-solution.py`
 
 
-## Сам текст задания хакатона:
+### Сам текст задания хакатона:
 
 Мини-проект "игра-арена".
 Цель данного ивента - повеселиться и попробовать что то новое. 
