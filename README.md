@@ -3,13 +3,13 @@ my upgraded solution to Ya-Praktikum_hackaton, held in april 2020
 
 Мой вариант решения по хакатону Яндекс_Практикума, проводимому в апреле 2020 года.
 
-Установка окружения:
+Установка виртуального окружения:
 `python -m venv venv`
 
-Активация окружения:
+Активация виртуального окружения:
 `source venv/Scripts/activate`
 
-Запуск скрипта:
+Запуск скрипта решения:
 `python ren-kaio_ya-arena-event-solution.py`
 
 
