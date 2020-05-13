@@ -1,6 +1,17 @@
 # educational_hackaton_april2020
 my upgraded solution to Ya-Praktikum_hackaton, held in april 2020
 
+Мой вариант решения по хакатону Яндекс_Практикума, проводимого в апреле 2020 года.
+
+Установка окружения:
+`python -m venv venv`
+
+Активация окружения:
+`source venv/Scripts/activate`
+
+Запуск скрипта:
+`python ren-kaio_ya-arena-event-solution.py`
+
 
 Сам текст задания хакатона:
 
